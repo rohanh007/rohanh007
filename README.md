@@ -27,6 +27,13 @@ My toolkit includes, but is not limited to:
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" width="50" height="50" />&nbsp;
 </div>
 
+### 🗄️ Databases :
+<div>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="Mongodb" alt="mongoDb" width="50" height="50"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="SQL" alt="SQL" width="70" height="50"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original-wordmark.svg" title="mongoose" alt="mongoose" width="70" height="50"/>&nbsp;
+</div>
+
 
 ### Tools & Platforms: 
 <div>
@@ -35,4 +42,24 @@ My toolkit includes, but is not limited to:
  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50" height="50"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="50" height="50"/>&nbsp;
 </div>
+
+
+
+### 🤝 Let's Connect
+I'm always on the lookout for new challenges and opportunities to collaborate on exciting projects. Whether you're in need of a MERN Stack Web Developer to bring your vision to life or seeking to contribute to your open-source project, feel free to reach out to me.
+
+<div id="badges" align="center">
+  <br><br>
+  <a href="https://github.com/rohanh007">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>&nbsp;
+  <a href="https://x.com/RohanHoval?t=GTBed5GZKWSNTXxvcfxo3g&s=09">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2" alt="Twitter Badge" />
+  </a>&nbsp;
+  <a href="mailto:rohanhoval007@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white&color=bb001b" alt="Email Badge" />
+  </a>
+</div>
+
+<br>
 

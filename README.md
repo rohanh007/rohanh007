@@ -2,8 +2,7 @@
 
 ### About Me
 
-   "Innovative MERN Stack Developer and Creative Designer on a mission to infuse the digital space with originality and functionality. Proficient in SQL queries, I specialize in transforming concepts into 
-    captivating web experiences. Embracing new technologies is not just a hobby, but a driving force behind my continuous growth.
+   At Symbiosis, I'm a Software Developer dedicated to tackling interesting challenges through innovative solutions. From conception to deployment, I focus on building robust web applications that excel in production environments. I'm enthusiastic about collaborating on fresh and exciting projects. Let's team up and make a difference!
 
 <br><br>
  

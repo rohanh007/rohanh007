@@ -25,6 +25,7 @@ My toolkit includes, but is not limited to:
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="expressJs" alt="nodejs" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="nodejs" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" width="50" height="50" />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="50" height="50" />&nbsp;
 </div>
 
 ### 🗄️ Databases :

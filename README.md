@@ -3,12 +3,13 @@
 ### About Me
 
    At Symbiosis, I'm a Software Developer dedicated to tackling interesting challenges through innovative solutions. From conception to deployment, I focus on building robust web applications that excel in production environments. I'm enthusiastic about collaborating on fresh and exciting projects. Let's team up and make a difference !
-
-<br><br>
+<br>
 <a href="https://portfolio-three-phi-99.vercel.app/">
-    <img src="https://img.shields.io/circleci/build/:vcsType/:user/:repo" alt="Personal Badge"/>
+            Coffe With Me 
   </a>&nbsp;
- 
+  
+  <br><br>
+  
  ## 🛠️ Technologies & Skills
 My toolkit includes, but is not limited to:
    

@@ -56,6 +56,8 @@ My toolkit includes, but is not limited to:
 I'm always on the lookout for new challenges and opportunities to collaborate on exciting projects.Whether you're in need of a MERN Stack Web Developer to bring your vision to life or seeking to contribute to your open-source project, feel free to reach out to me.
 
 <div id="badges" align="center">
+
+   
   <br><br>
   <a href="https://github.com/rohanh007">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
